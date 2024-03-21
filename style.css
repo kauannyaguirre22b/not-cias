@@ -7,8 +7,8 @@
 }
 
 :root {
-    ---almost-white: #FFFDFA;
-    --dar-blue: #00001A;
+    --almost-white: #FFFDFA;
+    --dark-blue: #00001A;
     --gunmetal: #5E607A;
     --vermillion: #F15D51;
     --yellow: #E9AA52;
@@ -125,7 +125,7 @@ main {
 }
 
 .segunda-seçao {
- background-color: var(--dar-blue);
+ background-color: var(--dark-blue);
  margin-bottom: 4rem;  
  padding: 1.5rem 1.1rem; 
 }
@@ -144,7 +144,7 @@ main {
 }
 
 .segunda-seçao h3{
-    color: var(---almost-white);
+    color: var(--almost-white);
     font-size: 1.25rem;
     line-height: 1.5rem;
     font-weight: 800;
@@ -175,7 +175,7 @@ main {
 }
 
 .terceira-seçao h2 {
-    color: var(--dar-blue);
+    color: var(--dark-blue);
     font-size: 1.125rem;
     font-weight: 800;
     line-height: 1.5rem;
